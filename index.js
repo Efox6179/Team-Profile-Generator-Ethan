@@ -178,7 +178,7 @@ Intern: [
 
 
 };
-
+//this prompts the user to add an employee role after they have selected y if they select n it will render the data that has been put in there so far 
 const employeeRole = [
     {
         type: "list",
@@ -263,6 +263,7 @@ addNew();
 
 function endList() {
 fs.writeFileSync(outputPath, render(team), 'utf-8');
+//this process.exit(0) allows the code to exit with success if i wanted to exit with failure of an uncaught fatal exception i would use a 1 instead, i believe there are 11 different numbers you can use for different processes 
 process.exit(0);
 }
 
