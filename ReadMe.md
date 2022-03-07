@@ -1,4 +1,4 @@
-# Read Me Generator
+# Team Profile Generator
 
 [Video Demo](https://youtu.be/01EjEm2hyhY)
 
