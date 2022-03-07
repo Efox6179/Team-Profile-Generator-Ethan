@@ -28,3 +28,7 @@ Currently no testing available, this will be added shortly.
 Check out my other [Projects](https://github.com/Efox6179?tab=repositories)
 
 Feel free to shoot me an [Email](mailto:efox6179@icloud.com) 
+
+
+![team profile generator js](https://user-images.githubusercontent.com/95189308/156968527-7d368127-b394-4d38-844c-58338efae5d6.PNG)
+![team profile generator deployed](https://user-images.githubusercontent.com/95189308/156968559-6e3fb63c-9f34-46e9-8ced-3ea1209d757a.PNG)
